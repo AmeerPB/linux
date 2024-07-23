@@ -6,12 +6,14 @@ Linux assets
 
 ### Konsole
 [Theme](https://store.kde.org/browse?cat=462&ord=rating)
+
 ---
 
 
 ### Cursor
 [Theme]()
 
+***
 
 ### Wallpapers
 [Assets](https://store.kde.org/browse?cat=299&ord=latest)
