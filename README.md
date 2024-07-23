@@ -4,7 +4,7 @@ Linux assets
 <br>
 
 
-### Konsole
+<ins>### Konsole <ins>
 [Theme](https://store.kde.org/browse?cat=462&ord=rating)
 
 <br>
