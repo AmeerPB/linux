@@ -1,4 +1,4 @@
-#### Icecat installation from source
+### Icecat installation from source
 
 > ### Steps
 > 
