@@ -2,7 +2,7 @@
 
 > ### Steps
 > 
-> 1. Download the installation script / source from the (Savannah Git)[https://git.savannah.gnu.org/cgit/gnuzilla.git]
+> 1. Download the installation script / source from the [Savannah Git](https://git.savannah.gnu.org/cgit/gnuzilla.git)
 > 2. Extract the tar file
 > 3. Install the dependencies 
 > 	1. Based on the README, these are the libraries needed for the installation
